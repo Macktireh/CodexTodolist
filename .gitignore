@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+
+# Application data
+data/tasks.json
+data/tasks.json.tmp
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
